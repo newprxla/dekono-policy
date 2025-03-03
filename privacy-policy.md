@@ -1,6 +1,6 @@
 # Privacy Policy for Dekono
 
-_Last updated: March 2024_
+_Last updated: March 2025_
 
 ## Introduction
 Dekono is committed to protecting your privacy. This policy explains our data practices for our macOS application available on the Mac App Store.
