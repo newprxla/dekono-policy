@@ -3,13 +3,18 @@
 _Last updated: March 2024_
 
 ## Introduction
-Dekono is committed to protecting your privacy. This policy explains our data practices for our macOS application.
+Dekono is committed to protecting your privacy. This policy explains our data practices for our macOS application available on the Mac App Store.
+
+## App Store Data
+- All downloads and purchases are handled by Apple through the Mac App Store
+- We do not collect any personal information, email addresses, or payment details
+- Apple manages all transactions and download processes
 
 ## Information Access and Usage
 ### What We Access:
-- Desktop folder
-- Documents folder
-- Downloads folder
+- Desktop folder (for PDF indexing)
+- Documents folder (for PDF indexing)
+- Downloads folder (for PDF indexing)
 
 ### How We Use It:
 - To index and organize PDF files
@@ -27,10 +32,17 @@ Dekono is committed to protecting your privacy. This policy explains our data pr
 - User-created collections and organization structures
 
 ### What We DO NOT Collect:
-- Personal information
+- Personal information (including email addresses)
+- Payment information
 - File contents
 - Usage statistics
 - Analytics data
+- Download or installation data
+
+## App Store Analytics
+- Basic app analytics are collected by Apple (not us)
+- Crash reports may be sent to Apple if user opts in
+- These are governed by Apple's Privacy Policy
 
 ## Security
 - App is sandboxed per Apple requirements
@@ -40,7 +52,7 @@ Dekono is committed to protecting your privacy. This policy explains our data pr
 ## Your Rights
 - Control folder access through System Settings
 - Delete app and all associated data
-- Request information about data usage
+- Manage App Store privacy settings through macOS
 
 ## Changes
 We will notify users of any privacy policy changes on this page.
