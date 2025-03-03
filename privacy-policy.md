@@ -1,13 +1,54 @@
 # Privacy Policy for Dekono
 
-Last updated: March 2025
+_Last updated: March 2024_
 
 ## Introduction
-This privacy policy describes how Dekono handles your information. Our application is designed with privacy-first principles, storing all data locally on your device.
+Dekono is committed to protecting your privacy. This policy explains our data practices for our macOS application.
 
-## Data Usage
-- We only access PDF files in Desktop, Documents, and Downloads folders
-- All data processing is done locally
-- No personal information is collected or transmitted
+## Information Access and Usage
+### What We Access:
+- Desktop folder
+- Documents folder
+- Downloads folder
 
-Contact: spatil.vaaji@gmail.com
+### How We Use It:
+- To index and organize PDF files
+- To create and manage document collections
+- To provide search functionality
+
+### Data Storage:
+- All data is processed and stored locally on your device
+- No data is transmitted to external servers
+- Your files remain in their original locations
+
+## Data Collection
+### What We Collect:
+- File metadata (names, locations, timestamps)
+- User-created collections and organization structures
+
+### What We DO NOT Collect:
+- Personal information
+- File contents
+- Usage statistics
+- Analytics data
+
+## Security
+- App is sandboxed per Apple requirements
+- Implements macOS security best practices
+- No external data transmission
+
+## Your Rights
+- Control folder access through System Settings
+- Delete app and all associated data
+- Request information about data usage
+
+## Changes
+We will notify users of any privacy policy changes on this page.
+
+## Contact
+For privacy questions contact:
+Email: spatil.vaaji@gmail.com
+
+## Compliance
+- Complies with Apple App Store Guidelines
+- Adheres to macOS Privacy Guidelines
